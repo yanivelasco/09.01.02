@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+
+
+
+body{
+    background-color: #f2efea;
+    margin: 2%;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+.logo{
+    max-width: 15%;
+}
+
+
